@@ -1,7 +1,10 @@
 # Icons
 
-Icon assets for Linux, macOS, and Windows.
+Icon assets for Linux, macOS, and Windows along with a colorized version.
+
 
 ## Credits
 
-Icons created by **megabear - KD5IHC**. Thank you for your work on these assets.
+Original green and blue icons created by **megabear - KD5IHC**.
+
+Color icon created by **Johnny - W5KV**.
